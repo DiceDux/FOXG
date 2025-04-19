@@ -1,0 +1,130 @@
+[2025-03-26 03:13:16] Service installed successfully.
+[2025-03-26 03:13:16] Try update
+[2025-03-26 03:13:22] Update FoxGNew.exe success
+[2025-03-26 03:13:27] Update ORE.dll success
+[2025-03-26 03:13:29] stop service for update
+[2025-03-26 03:13:29] Service is already stopped.
+[2025-03-26 03:13:30] start service for update
+[2025-03-26 03:13:31] Service start command sent successfully.
+[2025-03-26 03:13:31] msg1
+[2025-03-26 03:13:31] Service started
+[2025-03-26 03:13:31] Try update
+[2025-03-26 03:13:33] msg2
+[2025-03-26 03:13:33] END
+[2025-03-26 03:13:34] Error 429
+[2025-03-26 03:14:08] Service started
+[2025-03-26 03:14:08] Try update
+[2025-03-26 03:14:08] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 03:14:08] Failed to fetch manifest 0
+[2025-03-26 03:14:08] Failed to fetch manifest
+[2025-03-26 03:14:10] Try update
+[2025-03-26 03:14:13] Service loaded
+[2025-03-26 03:14:14] Core started
+[2025-03-26 03:14:14] c #1
+[2025-03-26 03:14:14] c #2
+[2025-03-26 03:14:15] core step 1
+[2025-03-26 03:14:15] core step 2
+[2025-03-26 04:00:17] Service started
+[2025-03-26 04:00:17] Try update
+[2025-03-26 04:00:22] Service loaded
+[2025-03-26 04:00:23] Core started
+[2025-03-26 04:00:23] c #1
+[2025-03-26 04:00:23] c #2
+[2025-03-26 04:00:25] core step 1
+[2025-03-26 04:00:25] core step 2
+[2025-03-26 09:51:21] Service started
+[2025-03-26 09:51:21] Try update
+[2025-03-26 09:51:21] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 09:51:21] Failed to fetch manifest 0
+[2025-03-26 09:51:21] Failed to fetch manifest
+[2025-03-26 09:51:23] Try update
+[2025-03-26 09:51:23] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 09:51:23] Failed to fetch manifest 0
+[2025-03-26 09:51:23] Failed to fetch manifest
+[2025-03-26 09:51:25] Try update
+[2025-03-26 09:51:25] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 09:51:25] Failed to fetch manifest 0
+[2025-03-26 09:51:25] Failed to fetch manifest
+[2025-03-26 09:51:27] Try update
+[2025-03-26 09:51:27] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 09:51:27] Failed to fetch manifest 0
+[2025-03-26 09:51:27] Failed to fetch manifest
+[2025-03-26 09:51:29] Try update
+[2025-03-26 09:51:29] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 09:51:29] Failed to fetch manifest 0
+[2025-03-26 09:51:29] Failed to fetch manifest
+[2025-03-26 09:51:31] Try update
+[2025-03-26 09:51:31] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-26 09:51:31] Failed to fetch manifest 0
+[2025-03-26 09:51:31] Failed to fetch manifest
+[2025-03-26 09:51:33] Try update
+[2025-03-26 09:51:38] Service loaded
+[2025-03-26 09:51:39] Core started
+[2025-03-26 09:51:39] c #1
+[2025-03-26 09:51:39] c #2
+[2025-03-26 09:51:41] core step 1
+[2025-03-26 09:51:41] core step 2
+[2025-03-26 14:50:57] Service started
+[2025-03-26 14:50:57] Try update
+[2025-03-26 14:51:03] Service loaded
+[2025-03-26 14:51:04] Core started
+[2025-03-26 14:51:04] c #1
+[2025-03-26 14:51:04] c #2
+[2025-03-26 14:51:06] core step 1
+[2025-03-26 14:51:06] core step 2
+[2025-03-27 05:53:56] Service started
+[2025-03-27 05:53:56] Try update
+[2025-03-27 05:54:02] Service loaded
+[2025-03-27 05:54:03] Core started
+[2025-03-27 05:54:03] c #1
+[2025-03-27 05:54:03] c #2
+[2025-03-27 05:54:04] core step 1
+[2025-03-27 05:54:04] core step 2
+[2025-03-27 06:15:19] Service started
+[2025-03-27 06:15:19] Try update
+[2025-03-27 06:15:19] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-27 06:15:19] Failed to fetch manifest 0
+[2025-03-27 06:15:19] Failed to fetch manifest
+[2025-03-27 06:15:21] Try update
+[2025-03-27 06:15:26] Service loaded
+[2025-03-27 06:15:27] Core started
+[2025-03-27 06:15:27] c #1
+[2025-03-27 06:15:27] c #2
+[2025-03-27 06:15:28] core step 1
+[2025-03-27 06:15:28] core step 2
+[2025-03-27 16:57:18] Service started
+[2025-03-27 16:57:18] Try update
+[2025-03-27 16:57:18] Failed to connect server 0 Could not resolve host: cdn.v-mp.ir
+[2025-03-27 16:57:18] Failed to fetch manifest 0
+[2025-03-27 16:57:18] Failed to fetch manifest
+[2025-03-27 16:57:20] Try update
+[2025-03-27 16:57:25] Service loaded
+[2025-03-27 16:57:26] Core started
+[2025-03-27 16:57:26] c #1
+[2025-03-27 16:57:26] c #2
+[2025-03-27 16:57:27] core step 1
+[2025-03-27 16:57:27] core step 2
+[2025-03-28 05:09:13] Service started
+[2025-03-28 05:09:13] Try update
+[2025-03-28 05:09:17] Service loaded
+[2025-03-28 05:09:18] Core started
+[2025-03-28 05:09:18] c #1
+[2025-03-28 05:09:18] c #2
+[2025-03-28 05:09:19] core step 1
+[2025-03-28 05:09:19] core step 2
+[2025-03-28 07:19:39] Service started
+[2025-03-28 07:19:39] Try update
+[2025-03-28 07:19:43] Service loaded
+[2025-03-28 07:19:44] Core started
+[2025-03-28 07:19:44] c #1
+[2025-03-28 07:19:44] c #2
+[2025-03-28 07:19:46] core step 1
+[2025-03-28 07:19:46] core step 2
+[2025-03-28 08:27:12] Service started
+[2025-03-28 08:27:12] Try update
+[2025-03-28 08:27:17] Service loaded
+[2025-03-28 08:27:18] Core started
+[2025-03-28 08:27:18] c #1
+[2025-03-28 08:27:18] c #2
+[2025-03-28 08:27:20] core step 1
+[2025-03-28 08:27:20] core step 2
